@@ -6,6 +6,7 @@
 
 - [Introduction](./README.md#Introduction)
 - [1ier Script](./README.md#Scrapper_des_données)
+- [2iem Script](./README.md#Crée_une_base_de_donées)
 
 ---
 
@@ -46,3 +47,8 @@ Voila un exemple de ce que nous esseyrons de reucpérer :
 | 0 | les Alpes | 2023 | JANVIER | -3 | 1 | -7 | 16 | 9 | -26 | 10km/h | -11 | 1mm | 11mm | 90% | 9km | 50% | 08:18:00 | 17:45:00 | 9:27:0 |
 
 La technologie utilise sere la librairie panda et beautiful soup. Avec Python Bien sure
+FINI.
+
+## Crée_une_base_de_donées
+
+A partire des donées recolteé je dois crée une base de données.
