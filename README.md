@@ -50,7 +50,15 @@ FINI.
 Rien à dire.
 
 ## Affichage statistique
+
+Nous avons dus le faire script uniquement python car il faut faire cette commande :
+
+```bash
+      $ streamlit run "your_script.py"
+```
+
 Voici un exemple de graphique : 
+
 
 ![exmple graphique](./graphique_exemple.png)
 
